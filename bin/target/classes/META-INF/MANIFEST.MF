@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: PontoInteligenteProject
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vguilherme
+Implementation-Vendor-Id: com.pontointeligente
+Build-Jdk: 1.8.0_161
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/PontoInteligenteProject
+Created-By: Maven Integration for Eclipse
+
